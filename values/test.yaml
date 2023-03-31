@@ -5,3 +5,5 @@ controller:
     chroot: false
     registry: registry.k8s.io
     image: ingress-nginx/controller-unknown
+image:
+  tag: test
